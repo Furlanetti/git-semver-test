@@ -32,6 +32,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Furlanetti/git-semver-test.git"
+    "url": "git@github.com:Furlanetti/git-semver-test.git"
   }
 }
